@@ -1,1 +1,1 @@
-# Slider
+# [Gallery](https://frontenderboy.github.io/Gallery/)
